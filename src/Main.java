@@ -6,7 +6,5 @@ public class Main {
 
         Gato gato = new Gato();
         System.out.println(gato);
-        System.out.println(gato);
-
     }
 }
